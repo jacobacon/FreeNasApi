@@ -50,5 +50,13 @@ public class APITest {
 		}
 	
 	}
+	
+	private void callApi(String command){
+		
+		
+		
+		
+		
+	}
 
 }
