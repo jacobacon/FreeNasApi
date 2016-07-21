@@ -16,7 +16,7 @@ public class APITest {
 		try {
 			String webPage = "http://192.168.1.100/api/v1.0/system/version?format=json";
 			String name = "root";
-			String password = "Tiap123$";
+			String password = "";
 
 			String authString = name + ":" + password;
 			System.out.println("auth string: " + authString);
